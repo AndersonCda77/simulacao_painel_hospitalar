@@ -77,5 +77,5 @@ Este trabalho unifica conceitos de:
 
 Tornando o projeto uma POC prática, completa e com aplicações reais em IoT Hospitalar.
 
----
-Desenvolvido com ❤️
+-------
+"Brocai por nós!"🌵🌵
